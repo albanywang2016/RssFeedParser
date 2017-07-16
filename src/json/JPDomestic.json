@@ -25,22 +25,11 @@
 	},
 
 	{
-		"companyName":"医療介護CBニュース",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/cbn-dom.xml"
-	},	
-
-	{
 		"companyName":"沖縄タイムス",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/okinawat-dom.xml"
 	},					
 
-	{
-		"companyName":"産経新聞",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/san-dom.xml"
-	},	
 
 	{
 		"companyName":"スポニチアネックス",
@@ -66,25 +55,12 @@
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/videonewsv-dom.xml"
 	},
-	
-	{
-		"companyName":"弁護士ドットコム",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/bengocom-dom.xml"
-	},
 
 	
 	{
 		"companyName":"北海道新聞",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/doshin-dom.xml"
-	},
-
-	
-	{
-		"companyName":"レスキューナウニュース",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/rescuenow-dom.xml"
 	},
 
 	
@@ -143,12 +119,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/koukousei-dom.xml"
 	},
 
-	
-	{
-		"companyName":"税理士ドットコム",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/zeiricom-dom.xml"
-	},
 
 	
 	{
@@ -176,20 +146,6 @@
 		"companyName":"福祉新聞",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/fukushi-dom.xml"
-	},
-
-	
-	{
-		"companyName":"ホウドウキョク",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/houdouk-dom.xml"
-	},
-
-	
-	{
-		"companyName":"毎日放送",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/mbsnews-dom.xml"
 	},
 
 	
