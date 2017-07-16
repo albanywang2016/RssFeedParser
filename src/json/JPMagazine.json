@@ -460,11 +460,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/cddldata-all.xml"
 	},
 
-	{
-		"companyName":"JBpress",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/jbpressz-all.xml"
-	},
 
 	{
 		"companyName":"女子SPA！",
@@ -472,17 +467,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/jspa-all.xml"
 	},
 
-	{
-		"companyName":"Suits-woman.jp",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/suitsw-all.xml"
-	},
-
-	{
-		"companyName":"選択",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/sentaku-all.xml"
-	},
 
 	{
 		"companyName":"ダイヤモンド・ザイ",
@@ -550,11 +534,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/nipponcom-all.xml"
 	},
 
-	{
-		"companyName":"NEWS ポストセブン",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/pseven-all.xml"
-	},
 
 	{
 		"companyName":"Numero TOKYO",

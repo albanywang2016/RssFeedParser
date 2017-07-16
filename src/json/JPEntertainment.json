@@ -97,34 +97,11 @@
 		"link":"https://headlines.yahoo.co.jp/rss/kana-c_ent.xml"
 	},
 	
-	{
-		"companyName":"産経新聞",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/san-c_ent.xml"
-	},
-
-	{
-		"companyName":"朝鮮日報日本語版",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/chosun-c_ent.xml"
-	},
 
 	{
 		"companyName":"東スポWeb",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/tospoweb-c_ent.xml"
-	},
-
-	{
-		"companyName":"西日本スポーツ",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/nishispo-c_ent.xml"
-	},
-
-	{
-		"companyName":"日刊スポーツ",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/nksports-c_ent.xml"
 	},
 
 	{
@@ -143,12 +120,6 @@
 		"companyName":"リアルライブ",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/reallive-c_ent.xml"
-	},
-
-	{
-		"companyName":"聯合ニュース",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/yonh-c_ent.xml"
 	},
 
 	{
@@ -259,11 +230,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/nataliec-c_ent.xml"
 	},
 
-	{
-		"companyName":"サンケイスポーツ",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/sanspo-c_ent.xml"
-	},
 
 	{
 		"companyName":"チケットぴあ",
@@ -299,12 +265,6 @@
 		"companyName":"ぴあ映画生活",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/piaeiga-c_ent.xml"
-	},
-
-	{
-		"companyName":"夕刊フジ",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/ykf-c_ent.xml"
 	},
 
 	{

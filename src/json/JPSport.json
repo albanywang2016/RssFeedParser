@@ -97,11 +97,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/saga-c_spo.xml"
 	},
 	
-	{
-		"companyName":"サンケイスポーツ",
-		"channel":"Sport",
-		"link":"https://headlines.yahoo.co.jp/rss/sanspo-c_spo.xml"
-	},
 	
 	{
 		"companyName":"ちばとぴ！チャンネル",
@@ -127,11 +122,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/nishispo-c_spo.xml"
 	},
 	
-	{
-		"companyName":"日刊スポーツ",
-		"channel":"Sport",
-		"link":"https://headlines.yahoo.co.jp/rss/nksports-c_spo.xml"
-	},
 	
 	{
 		"companyName":"バスケットボールキング",

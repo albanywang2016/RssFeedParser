@@ -19,11 +19,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/binsider-c_int.xml"
 	},
 	
-	{
-		"companyName":"CNN.co.jp",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/cnn-c_int.xml"
-	},
 	
 	{
 		"companyName":"ITmedia ビジネスオンライン",
@@ -59,12 +54,6 @@
 		"companyName":"ウォール・ストリート・ジャーナル",
 		"channel":"International",
 		"link":"https://headlines.yahoo.co.jp/rss/wsj-c_int.xml"
-	},
-	
-	{
-		"companyName":"サンパウロ新聞",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/saopaulo-c_int.xml"
 	},
 	
 	{
@@ -116,12 +105,6 @@
 	},
 	
 	{
-		"companyName":"AFPBB News",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/afpbbnewsv-c_int.xml"
-	},
-	
-	{
 		"companyName":"BBC News",
 		"channel":"International",
 		"link":"https://headlines.yahoo.co.jp/rss/bbc-c_int.xml"
@@ -133,11 +116,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/bfj-c_int.xml"
 	},
 	
-	{
-		"companyName":"INDO WATCHER ビジネスプレミアム",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/indowatch-c_int.xml"
-	},
 	
 	{
 		"companyName":"MEGABRASIL",
@@ -169,18 +147,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/storyfulv-c_int.xml"
 	},
 	
-	{
-		"companyName":"産経新聞",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/san-c_int.xml"
-	},
-	
-	{
-		"companyName":"済龍 China Press",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/cnpress-c_int.xml"
-	},
-	
 	
 	{
 		"companyName":"西日本新聞",
@@ -194,11 +160,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/agrinews-c_int.xml"
 	},
 	
-	{
-		"companyName":"ハンギョレ新聞",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/hankyoreh-c_int.xml"
-	},
 	
 	{
 		"companyName":"ホウドウキョク",

@@ -48,11 +48,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/asahik-c_life.xml"
 	},
 
-	{
-		"companyName":"産経新聞",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/san-c_life.xml"
-	},
 
 	{
 		"companyName":"スタディサプリ進路",
@@ -150,11 +145,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/sanyo-c_life.xml"
 	},
 
-	{
-		"companyName":"税理士ドットコム",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/zeiricom-c_life.xml"
-	},
 
 	{
 		"companyName":"西日本新聞",
@@ -168,11 +158,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/it_nlab-c_life.xml"
 	},
 
-	{
-		"companyName":"弁護士ドットコム",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/bengocom-c_life.xml"
-	},
 
 	{
 		"companyName":"北海道新聞",

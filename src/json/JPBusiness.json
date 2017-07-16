@@ -247,12 +247,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/zeiricom-bus.xml"
 	},
 		
-	{
-		"companyName":"鉄鋼新聞",
-		"channel":"Business",
-		"link":"https://headlines.yahoo.co.jp/rss/tekkou-bus.xml"
-	},
-		
 		
 	{
 		"companyName":"投信1",
@@ -266,11 +260,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/nishinp-bus.xml"
 	},
 		
-	{
-		"companyName":"日刊産業新聞",
-		"channel":"Business",
-		"link":"https://headlines.yahoo.co.jp/rss/sangyo-bus.xml"
-	},
 		
 	{
 		"companyName":"ニュースイッチ",

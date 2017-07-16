@@ -12,11 +12,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/binsider-c_sci.xml"
 	},
 
-	{
-		"companyName":"CNET Japan",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/cnetj-c_sci.xml"
-	},
 
 	{
 		"companyName":"EE Times Japan",
@@ -78,11 +73,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/withnews-c_sci.xml"
 	},
 
-	{
-		"companyName":"アスキー",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/ascii-c_sci.xml"
-	},
 
 	{
 		"companyName":"沖縄タイムス",
@@ -120,11 +110,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/rps-c_sci.xml"
 	},
 
-	{
-		"companyName":"BCN",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/bcn-c_sci.xml"
-	},
 
 	{
 		"companyName":"BuzzFeed Japan",
@@ -162,11 +147,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/biz_it_mk-c_sci.xml"
 	},
 
-	{
-		"companyName":"MarkeZine",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/sh_mar-c_sci.xml"
-	},
 
 	{
 		"companyName":"ScanNetSecurity",
@@ -186,11 +166,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/wordleaf-c_sci.xml"
 	},
 
-	{
-		"companyName":"Web担当者Forum",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/webtan-c_sci.xml"
-	},
 
 	{
 		"companyName":"朝日新聞デジタル",
@@ -208,12 +183,6 @@
 		"companyName":"ギズモード・ジャパン",
 		"channel":"Science",
 		"link":"https://headlines.yahoo.co.jp/rss/giz-c_sci.xml"
-	},
-
-	{
-		"companyName":"産経新聞",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/san-c_sci.xml"
 	},
 
 	{

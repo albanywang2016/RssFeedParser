@@ -54,12 +54,6 @@
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/senkyocom-dom.xml"
 	},
-
-	{
-		"companyName":"日刊スポーツ",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/nksports-dom.xml"
-	},
 	
 	{
 		"companyName":"ニュースイッチ",
@@ -147,20 +141,6 @@
 		"companyName":"高校生新聞オンライン",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/koukousei-dom.xml"
-	},
-
-	
-	{
-		"companyName":"サンケイスポーツ",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/sanspo-dom.xml"
-	},
-
-	
-	{
-		"companyName":"スポーツ報知",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/sph-dom.xml"
 	},
 
 	

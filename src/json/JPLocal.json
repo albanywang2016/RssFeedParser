@@ -1,31 +1,10 @@
 {"RSSFeed":[
 
-
-	{
-		"companyName":"IBC岩手放送",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/ibciwate-loc.xml"
-	},
-
-	{
-		"companyName":"MBC南日本放送",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/mbcnews-loc.xml"
-	},
-
-	{
-		"companyName":"RKK熊本放送",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/rkk-loc.xml"
-	},
-
 	{
 		"companyName":"THE PAGE",
 		"channel":"Local",
 		"link":"https://headlines.yahoo.co.jp/rss/wordleaf-loc.xml"
 	},
-
-
 
 	{
 		"companyName":"withnews",
@@ -51,13 +30,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/okinawat-loc.xml"
 	},
 
-
-	{
-		"companyName":"岐阜新聞Ｗｅｂ",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/gifuweb-loc.xml"
-	},
-
 	{
 		"companyName":"佐賀新聞",
 		"channel":"Local",
@@ -69,7 +41,6 @@
 		"channel":"Local",
 		"link":"https://headlines.yahoo.co.jp/rss/sanyo-loc.xml"
 	},
-
 
 
 	{
@@ -121,11 +92,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/hakoshin-loc.xml"
 	},
 
-	{
-		"companyName":"福島民報",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/fminpo-loc.xml"
-	},
 
 	{
 		"companyName":"ホウドウキョク",
@@ -171,11 +137,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/minkeiv-loc.xml"
 	},
 
-	{
-		"companyName":"ＳＢＣ信越放送",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/sbc-loc.xml"
-	},
 
 	{
 		"companyName":"TOKYO MX",
@@ -189,11 +150,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/colocal-loc.xml"
 	},
 
-	{
-		"companyName":"＠S［アットエス］ by 静岡新聞SBS",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/at_s-loc.xml"
-	},
 
 	{
 		"companyName":"茨城新聞クロスアイ",
@@ -205,12 +161,6 @@
 		"companyName":"愛媛新聞ONLINE",
 		"channel":"Local",
 		"link":"https://headlines.yahoo.co.jp/rss/ehime-loc.xml"
-	},
-
-	{
-		"companyName":"カナロコ by 神奈川新聞",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/kana-loc.xml"
 	},
 
 	{
@@ -279,11 +229,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/hokuriku-loc.xml"
 	},
 
-	{
-		"companyName":"北海道文化放送",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/hokkaibun-loc.xml"
-	},
 
 	{
 		"companyName":"毎日放送",
