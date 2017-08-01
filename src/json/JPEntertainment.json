@@ -6,11 +6,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/abema-c_ent.xml"
 	},
 
-	{
-		"companyName":"cinemacafe.net",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/cine-c_ent.xml"
-	},
 
 	{
 		"companyName":"dmenu映画",
@@ -259,12 +254,6 @@
 		"companyName":"ニッポン放送「しゃベル」",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/nshaberu-c_ent.xml"
-	},
-
-	{
-		"companyName":"ぴあ映画生活",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/piaeiga-c_ent.xml"
 	},
 
 	{
