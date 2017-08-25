@@ -186,12 +186,6 @@
 	},
 
 	{
-		"companyName":"西日本新聞",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/nishinp-c_sci.xml"
-	},
-
-	{
 		"companyName":"ネットショップ担当者フォーラム",
 		"channel":"Science",
 		"link":"https://headlines.yahoo.co.jp/rss/netshop-c_sci.xml"

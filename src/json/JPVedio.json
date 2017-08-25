@@ -14,12 +14,6 @@
 	},
 	
 	{
-		"companyName":"関西テレビ",
-		"channel":"Business",
-		"link":"https://headlines.yahoo.co.jp/rss/kantele-bus.xml"
-	},
-
-	{
 		"companyName":"東海テレビ",
 		"channel":"Business",
 		"link":"https://headlines.yahoo.co.jp/rss/tokai-bus.xml"
@@ -77,6 +71,6 @@
 		"companyName":"テレビ東京スポーツ",
 		"channel":"Sport",
 		"link":"https://headlines.yahoo.co.jp/rss/tvtokyos-c_spo.xml"
-	},
+	}
 	
 ]}

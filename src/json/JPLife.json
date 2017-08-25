@@ -147,12 +147,6 @@
 
 
 	{
-		"companyName":"西日本新聞",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/nishinp-c_life.xml"
-	},
-
-	{
 		"companyName":"ねとらぼ",
 		"channel":"Life",
 		"link":"https://headlines.yahoo.co.jp/rss/it_nlab-c_life.xml"
