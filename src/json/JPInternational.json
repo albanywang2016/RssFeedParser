@@ -149,12 +149,6 @@
 	
 	
 	{
-		"companyName":"西日本新聞",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/nishinp-c_int.xml"
-	},
-	
-	{
 		"companyName":"日本農業新聞",
 		"channel":"International",
 		"link":"https://headlines.yahoo.co.jp/rss/agrinews-c_int.xml"

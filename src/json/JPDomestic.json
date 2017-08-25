@@ -37,7 +37,12 @@
 		"link":"https://headlines.yahoo.co.jp/rss/spnannex-dom.xml"
 	},
 	
-	
+	{
+		"companyName":"テレ玉",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/teletama-dom.xml"
+	},
+		
 	{
 		"companyName":"選挙ドットコム",
 		"channel":"Domestic",
@@ -51,18 +56,34 @@
 	},
 	
 	{
+		"companyName":"ホウドウキョク",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/houdouk-dom.xml"
+	},
+	
+	{
 		"companyName":"ビデオニュース・ドットコム",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/videonewsv-dom.xml"
 	},
 
-	
+	{
+		"companyName":"毎日放送",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/mbsnews-dom.xml"
+	},
+		
+	{
+		"companyName":"メ〜テレ（名古屋テレビ）",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nbn-dom.xml"
+	},
+
 	{
 		"companyName":"北海道新聞",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/doshin-dom.xml"
 	},
-
 	
 	{
 		"companyName":"ログミー",
@@ -84,7 +105,29 @@
 		"link":"https://headlines.yahoo.co.jp/rss/jct-dom.xml"
 	},
 
+	{
+		"companyName":"THE PAGE",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/wordleaf-dom.xml"
+	},
 	
+	{
+		"companyName":"朝日新聞デジタル",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/asahik-dom.xml"
+	},
+	
+	{
+		"companyName":"アフロ",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/storyfulv-dom.xml"
+	},
+	
+	{
+		"companyName":"ウェザーニュース",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/weather-dom.xml"
+	},
 	{
 		"companyName":"TOKYO MX",
 		"channel":"Domestic",
@@ -98,7 +141,12 @@
 		"link":"https://headlines.yahoo.co.jp/rss/withnews-dom.xml"
 	},
 
-	
+	{
+		"companyName":"CBCテレビ",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/cbc-dom.xml"
+	},
+		
 	{
 		"companyName":"アジアプレス・ネットワーク",
 		"channel":"Domestic",
@@ -112,22 +160,114 @@
 		"link":"https://headlines.yahoo.co.jp/rss/wmap-dom.xml"
 	},
 
-	
 	{
-		"companyName":"高校生新聞オンライン",
+		"companyName":"カナロコ by 神奈川新聞",
 		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/koukousei-dom.xml"
+		"link":"https://headlines.yahoo.co.jp/rss/kana-dom.xml"
 	},
-
-
 	
 	{
-		"companyName":"西日本新聞",
+		"companyName":"サンケイスポーツ",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/sanspo-dom.xml"
+	},
+	
+	{
+		"companyName":"東海テレビ",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/tokai-dom.xml"
+	},
+	
+	{
+		"companyName":"関西テレビ1",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/kantele-dom.xml"
+	},
+	
+	{
+		"companyName":"関西テレビ2",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/kantele-bus.xml"
+	},
+	
+	{
+		"companyName":"関西テレビ3",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/kantele-c_spo.xml"
+	},	
+
+	{
+		"companyName":"関西テレビ4",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/kantele-loc.xml"
+	},	
+	
+	{
+		"companyName":"qBiz 西日本新聞経済電子版1",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/qbiz-dom.xml"
+	},
+	
+	{
+		"companyName":"qBiz 西日本新聞経済電子版2",
+		"channel":"Business",
+		"link":"https://headlines.yahoo.co.jp/rss/qbiz-bus.xml"
+	},
+	
+	{
+		"companyName":"西日本スポーツ",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nishispo-c_ent.xml"
+	},
+	
+	{
+		"companyName":"TNCテレビ西日本",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/tncv-loc.xml"
+	},
+	
+	{
+		"companyName":"西日本新聞1",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/nishinp-dom.xml"
+		
+	},
+	
+	{
+		"companyName":"西日本新聞2",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nishinp-c_int.xml"
+		
+	},
+	
+	{
+		"companyName":"西日本新聞3",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nishinp-bus.xml"
+		
+	},
+	
+	{
+		"companyName":"西日本新聞4",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nishinp-c_spo.xml"
+		
+	},
+	{
+		"companyName":"西日本新聞5",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nishinp-c_sci.xml"
+		
+	},
+		
+	{
+		"companyName":"西日本新聞6",
+		"channel":"Domestic",
+		"link":"https://headlines.yahoo.co.jp/rss/nishinp-loc.xml"
+		
 	},
 
-	
+
 	{
 		"companyName":"日本農業新聞",
 		"channel":"Domestic",
@@ -141,18 +281,60 @@
 		"link":"https://headlines.yahoo.co.jp/rss/socra-dom.xml"
 	},
 
-	
-	{
-		"companyName":"福祉新聞",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/fukushi-dom.xml"
-	},
-
-	
+		
 	{
 		"companyName":"レスポンス",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/rps-dom.xml"
-	}
+	},
+	
+	{
+		"companyName":"トピックス1",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/rss.xml"
+	},
+	
+	{
+		"companyName":"トピックス2",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/domestic/rss.xml"
+	},
+	
+	{
+		"companyName":"トピックス3",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/world/rss.xml"
+	},
 
+	{
+		"companyName":"トピックス4",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/economy/rss.xml"
+	},
+	
+	{
+		"companyName":"トピックス5",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/entertainment/rss.xml"
+	},
+
+	{
+		"companyName":"トピックス6",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/sports/rss.xml"
+	},	
+	
+	{
+		"companyName":"トピックス7",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/science/rss.xml"
+	},	
+	
+	{
+		"companyName":"トピックス8",
+		"channel":"Domestic",
+		"link":"https://news.yahoo.co.jp/pickup/local/rss.xml"
+	}
+	
+	
 ]}

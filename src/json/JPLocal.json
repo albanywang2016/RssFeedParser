@@ -75,12 +75,6 @@
 	},
 
 	{
-		"companyName":"西日本新聞",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/nishinp-loc.xml"
-	},
-
-	{
 		"companyName":"ねとらぼ",
 		"channel":"Local",
 		"link":"https://headlines.yahoo.co.jp/rss/it_nlab-loc.xml"
