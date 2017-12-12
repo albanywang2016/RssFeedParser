@@ -68,11 +68,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/mbsnews-dom.xml"
 	},
 		
-	{
-		"companyName":"メ〜テレ（名古屋テレビ）",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/nbn-dom.xml"
-	},
 
 	{
 		"companyName":"北海道新聞",
@@ -136,11 +131,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/withnews-dom.xml"
 	},
 
-	{
-		"companyName":"CBCテレビ",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/cbc-dom.xml"
-	},
 		
 	{
 		"companyName":"アジアプレス・ネットワーク",
@@ -165,12 +155,6 @@
 		"companyName":"サンケイスポーツ",
 		"channel":"Domestic",
 		"link":"https://headlines.yahoo.co.jp/rss/sanspo-dom.xml"
-	},
-	
-	{
-		"companyName":"東海テレビ",
-		"channel":"Domestic",
-		"link":"https://headlines.yahoo.co.jp/rss/tokai-dom.xml"
 	},
 	
 
