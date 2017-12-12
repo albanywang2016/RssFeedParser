@@ -38,11 +38,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/clc_teleg-c_int.xml"
 	},
 	
-	{
-		"companyName":"WoW!Korea",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/wow-c_int.xml"
-	},
 	
 	{
 		"companyName":"アジアプレス・ネットワーク",
@@ -98,11 +93,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/ykf-c_int.xml"
 	},
 	
-	{
-		"companyName":"聯合ニュース",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/yonh-c_int.xml"
-	},
 	
 	{
 		"companyName":"BBC News",
@@ -135,11 +125,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/withnews-c_int.xml"
 	},
 	
-	{
-		"companyName":"朝日新聞デジタル",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/asahik-c_int.xml"
-	},
 	
 	{
 		"companyName":"アフロ",
