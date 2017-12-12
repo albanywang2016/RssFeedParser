@@ -311,22 +311,31 @@ public class RSSFeedParserYahoo {
 
 		Document doc = Jsoup.parse(sb.toString());
 
-		Elements bodies = doc.getElementsByClass(Const.THUMB);
-		if (bodies != null && bodies.size() != 0) {
-			image = new Image();
+		try{
+			Elements bodies = doc.getElementsByClass(Const.ARTICAL_MAIN);
+			if (bodies != null && bodies.size() != 0) {
+				image = new Image();
 
-			Document doc2 = Jsoup.parse(bodies.toString());
-			Element element = doc2.select(Const.IMG).first();
+				Document doc2 = Jsoup.parse(bodies.toString());
+				
+				Elements subBody = doc2.getElementsByClass(Const.THUMB);
 
-			String imageURL = element.attr(Const.SRC);
+				Document doc3 = Jsoup.parse(subBody.toString());
+				Element element = doc3.select(Const.IMG).first();
+				String imageURL = element.attr(Const.SRC);
 
-			image.setLink(imageURL);
-			if (imageURL.contains(Const.JPG)) {
-				image.setImage_type(Const.JPG);
+				image.setLink(imageURL);
+				if (imageURL.contains(Const.JPG)) {
+					image.setImage_type(Const.JPG);
+				}
 			}
+		}catch (Exception e){
+			System.out.print(e);
+
+		}finally{
+			br.close();
+			is.close();
 		}
-		br.close();
-		is.close();
 
 		return image;
 	}

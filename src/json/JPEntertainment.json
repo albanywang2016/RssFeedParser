@@ -56,11 +56,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/tokyofm-c_ent.xml"
 	},
 
-	{
-		"companyName":"WoW!Korea",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/wow-c_ent.xml"
-	},
 
 	{
 		"companyName":"アフロ",
@@ -191,12 +186,6 @@
 	},
 
 	{
-		"companyName":"映画ナタリー",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/nataliee-c_ent.xml"
-	},
-
-	{
 		"companyName":"沖縄タイムス",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/okinawat-c_ent.xml"
@@ -239,22 +228,11 @@
 		"link":"https://headlines.yahoo.co.jp/rss/trendnewsn-c_ent.xml"
 	},
 
-	{
-		"companyName":"日刊ゲンダイDIGITAL",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/nkgendai-c_ent.xml"
-	},
 
 	{
 		"companyName":"ニッポン放送「しゃベル」",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/nshaberu-c_ent.xml"
-	},
-
-	{
-		"companyName":"レスポンス",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/rps-c_ent.xml"
 	}
 	
 	

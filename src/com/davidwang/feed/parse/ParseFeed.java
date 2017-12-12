@@ -42,6 +42,8 @@ public class ParseFeed {
 				Const.JPENTERTAINMENT_JSON, Const.JPSPORT_JSON, Const.JPSCIENCE_JSON, Const.JPLIFE_JSON,
 				Const.JPLOCAL_JSON, Const.JPMAGAZINE_JSON };
 
+		//String[] allFeeds = {Const.JPENTERTAINMENT_JSON };
+		
 		for (String feed_path : allFeeds) {
 
 			List<FeedSource> feedSource = new ArrayList<FeedSource>();
