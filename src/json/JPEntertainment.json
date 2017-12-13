@@ -125,17 +125,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/ellegirl-c_ent.xml"
 	},
 
-	{
-		"companyName":"E-TALENTBANK",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/etalent-c_ent.xml"
-	},
-
-	{
-		"companyName":"Impress Watch",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/impress-c_ent.xml"
-	},
 
 	{
 		"companyName":"ITmedia NEWS",
@@ -179,11 +168,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/asahik-c_ent.xml"
 	},
 
-	{
-		"companyName":"インサイド",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/isd-c_ent.xml"
-	},
 
 	{
 		"companyName":"沖縄タイムス",
