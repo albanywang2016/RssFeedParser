@@ -161,13 +161,6 @@
 	},
 
 	{
-		"companyName":"THE PAGE",
-		"channel":"Science",
-		"link":"https://headlines.yahoo.co.jp/rss/wordleaf-c_sci.xml"
-	},
-
-
-	{
 		"companyName":"朝日新聞デジタル",
 		"channel":"Science",
 		"link":"https://headlines.yahoo.co.jp/rss/asahik-c_sci.xml"

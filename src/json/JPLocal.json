@@ -1,12 +1,6 @@
 {"RSSFeed":[
 
 	{
-		"companyName":"THE PAGE",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/wordleaf-loc.xml"
-	},
-
-	{
 		"companyName":"withnews",
 		"channel":"Local",
 		"link":"https://headlines.yahoo.co.jp/rss/withnews-loc.xml"
