@@ -84,12 +84,6 @@
 	
 
 	{
-		"companyName":"東スポWeb",
-		"channel":"Entertainment",
-		"link":"https://headlines.yahoo.co.jp/rss/tospoweb-c_ent.xml"
-	},
-
-	{
 		"companyName":"ねとらぼ",
 		"channel":"Entertainment",
 		"link":"https://headlines.yahoo.co.jp/rss/it_nlab-c_ent.xml"

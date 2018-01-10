@@ -26,12 +26,6 @@
 	},
 
 	{
-		"companyName":"NRI研究員の時事解説",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/nrin-all.xml"
-	},
-
-	{
 		"companyName":"エンタメOVO",
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/tvfan-all.xml"
@@ -61,11 +55,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/newton-all.xml"
 	},
 
-	{
-		"companyName":"教員養成セミナー",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/kyousemi-all.xml"
-	},
 
 	{
 		"companyName":"CREA WEB",
@@ -73,11 +62,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/creaweb-all.xml"
 	},
 
-	{
-		"companyName":"月刊糖尿病ライフ さかえ",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/sakae-all.xml"
-	},
 
 	{
 		"companyName":"現代ビジネス",
@@ -102,12 +86,6 @@
 		"companyName":"週刊金曜日",
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/kinyobi-all.xml"
-	},
-
-	{
-		"companyName":"週刊SPA!",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/sspa-all.xml"
 	},
 
 	{
@@ -146,11 +124,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/diamond-all.xml"
 	},
 
-	{
-		"companyName":"WWD JAPAN.com",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/wwdjapan-all.xml"
-	},
 
 	{
 		"companyName":"中央公論",
@@ -168,12 +141,6 @@
 		"companyName":"東京ウォーカー",
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/tkwalk-all.xml"
-	},
-
-	{
-		"companyName":"東洋経済オンライン",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/toyo-all.xml"
 	},
 
 	{
@@ -293,18 +260,6 @@
 	},
 
 	{
-		"companyName":"リアルサウンド",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/realsound-all.xml"
-	},
-
-	{
-		"companyName":"リビング福岡",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/livingfk-all.xml"
-	},
-
-	{
 		"companyName":"ロケーションジャパン",
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/locationj-all.xml"
@@ -314,12 +269,6 @@
 		"companyName":"WIRED.jp",
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/wired-all.xml"
-	},
-
-	{
-		"companyName":"25ansオンライン",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/vingtcinq-all.xml"
 	},
 
 	{
@@ -358,29 +307,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/otapolz-all.xml"
 	},
 
-	{
-		"companyName":"オトナンサー",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/otonans-all.xml"
-	},
-
-	{
-		"companyName":"オーヴォ",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/ovo-all.xml"
-	},
-
-	{
-		"companyName":"KAI-YOU.net",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/kaiyou-all.xml"
-	},
-
-	{
-		"companyName":"Casa BRUTUS.com",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/casabrutus-all.xml"
-	},
 
 	{
 		"companyName":"clicccar",
@@ -499,12 +425,6 @@
 	},
 
 	{
-		"companyName":"dot.",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/sasahi-all.xml"
-	},
-
-	{
 		"companyName":"Number Web",
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/number-all.xml"
@@ -527,13 +447,6 @@
 		"channel":"Magazine",
 		"link":"https://headlines.yahoo.co.jp/rss/nkbizgate-all.xml"
 	},
-
-	{
-		"companyName":"nippon.com",
-		"channel":"Magazine",
-		"link":"https://headlines.yahoo.co.jp/rss/nipponcom-all.xml"
-	},
-
 
 	{
 		"companyName":"Numero TOKYO",

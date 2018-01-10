@@ -13,12 +13,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/aptsushinv-c_int.xml"
 	},
 	
-	{
-		"companyName":"BUSINESS INSIDER JAPAN",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/binsider-c_int.xml"
-	},
-	
 	
 	{
 		"companyName":"ITmedia ビジネスオンライン",
@@ -94,11 +88,6 @@
 	},
 	
 	
-	{
-		"companyName":"BBC News",
-		"channel":"International",
-		"link":"https://headlines.yahoo.co.jp/rss/bbc-c_int.xml"
-	},
 	
 	{
 		"companyName":"BuzzFeed Japan",

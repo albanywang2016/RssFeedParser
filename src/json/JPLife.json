@@ -12,17 +12,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/cinranet-c_life.xml"
 	},
 
-	{
-		"companyName":"Fashionsnap.com",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/fashions-c_life.xml"
-	},
-
-	{
-		"companyName":"Lmaga.jp",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/lmaga-c_life.xml"
-	},
 
 	{
 		"companyName":"sippo",
@@ -30,11 +19,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/sippo-c_life.xml"
 	},
 
-	{
-		"companyName":"SUUMOジャーナル",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/suumoj-c_life.xml"
-	},
 
 	{
 		"companyName":"TOKYO FM＋",
@@ -65,24 +49,6 @@
 		"companyName":"日刊ゲンダイDIGITAL",
 		"channel":"Life",
 		"link":"https://headlines.yahoo.co.jp/rss/nkgendai-c_life.xml"
-	},
-
-	{
-		"companyName":"ベネッセ 教育情報サイト",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/benesseks-c_life.xml"
-	},
-
-	{
-		"companyName":"ホウドウキョク",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/houdouk-c_life.xml"
-	},
-
-	{
-		"companyName":"マネーの達人",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/manetatsun-c_life.xml"
 	},
 
 	{
@@ -128,23 +94,11 @@
 		"link":"https://headlines.yahoo.co.jp/rss/zuuonline-c_life.xml"
 	},
 
-	{
-		"companyName":"高校生新聞オンライン",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/koukousei-c_life.xml"
-	},
 
 	{
 		"companyName":"山陽新聞デジタル",
 		"channel":"Life",
 		"link":"https://headlines.yahoo.co.jp/rss/sanyo-c_life.xml"
-	},
-
-
-	{
-		"companyName":"ねとらぼ",
-		"channel":"Life",
-		"link":"https://headlines.yahoo.co.jp/rss/it_nlab-c_life.xml"
 	},
 
 
