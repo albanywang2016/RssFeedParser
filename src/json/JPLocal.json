@@ -112,13 +112,6 @@
 	},
 
 
-
-	{
-		"companyName":"Lmaga.jp",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/lmaga-loc.xml"
-	},
-
 	{
 		"companyName":"MINKEITV",
 		"channel":"Local",
@@ -145,22 +138,11 @@
 		"link":"https://headlines.yahoo.co.jp/rss/ibaraki-loc.xml"
 	},
 
-	{
-		"companyName":"愛媛新聞ONLINE",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/ehime-loc.xml"
-	},
 
 	{
 		"companyName":"北日本新聞",
 		"channel":"Local",
 		"link":"https://headlines.yahoo.co.jp/rss/kitanihon-loc.xml"
-	},
-
-	{
-		"companyName":"埼玉新聞",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/saitama-loc.xml"
 	},
 
 	{
@@ -193,11 +175,6 @@
 		"link":"https://headlines.yahoo.co.jp/rss/agrinews-loc.xml"
 	},
 
-	{
-		"companyName":"乗りものニュース",
-		"channel":"Local",
-		"link":"https://headlines.yahoo.co.jp/rss/norimono-loc.xml"
-	},
 
 	{
 		"companyName":"福井新聞ＯＮＬＩＮＥ",
